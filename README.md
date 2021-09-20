@@ -7,6 +7,6 @@
 - 06 Promedio Con Decision
 - 07 Cantidad Pares
 - 10 Alterna Caracteres
-- 16 Suma Dígitos (Puntos Extras)
+- **16 Suma Dígitos (Puntos Extras)**
 - 17 Número Cuadrado Mayor Que
 - 18 Factorial
